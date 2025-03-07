@@ -1,1 +1,1 @@
-https://lamine-git.github.io/barryProjet
+https://lamine-git.github.io/barryProjet/
